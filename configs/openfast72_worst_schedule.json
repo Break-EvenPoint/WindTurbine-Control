@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "time_s": 15,
+      "torque_offset_nm": -2500,
+      "pitch_offset_deg": 1,
+      "yaw_offset_deg": 3
+    },
+    {
+      "time_s": 100,
+      "torque_offset_nm": 0,
+      "pitch_offset_deg": 0,
+      "yaw_offset_deg": 0
+    }
+  ]
+}

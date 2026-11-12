@@ -1,0 +1,10 @@
+{
+  "initial_speed_ms": 10.1,
+  "final_speed_ms": 11.7,
+  "initial_dir_deg": 0,
+  "final_dir_deg": 15,
+  "transition_start_s": 40,
+  "transition_end_s": 80,
+  "duration_s": 230,
+  "sample_dt_s": 0.5
+}
